@@ -1,0 +1,24 @@
+.topIconsContainer{
+    display: flex;
+    margin-left: 15vw;
+    justify-content: flex-end;
+    padding: 20px;
+}
+.topIcon{
+    font-size: 23px;
+    color: #353839;
+    margin-left: 18px;
+}
+.cart{
+    position: relative;
+}
+.cart span{
+    position: absolute;
+    top: -7px;
+    width: 12px;
+    right: -1px;
+    height: 12px;
+    background-color: #0657ec;
+    border-radius: 50%;
+
+}
