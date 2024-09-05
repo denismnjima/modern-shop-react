@@ -10,7 +10,7 @@ header{
     min-width: 10vw;
     max-width: 70vw;
     padding: 10px;
-    border-radius: 0 20px 20px 0;
+    border-radius: 0 30px 30px 0;
     height: 100vh;
 }
 .Toggle{
@@ -43,7 +43,6 @@ nav .menuItems:hover{
     border-radius: 10px;
 }
 .menuName{
-    /* display: none; */
     margin: 5px;
     margin-top: 10px;
 }
