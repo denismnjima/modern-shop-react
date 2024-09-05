@@ -1,0 +1,49 @@
+.overlay{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+header{
+    background-color: #353839;
+    width: fit-content;
+    min-width: 10vw;
+    max-width: 70vw;
+    padding: 10px;
+    border-radius: 0 20px 20px 0;
+    height: 100vh;
+}
+.Toggle{
+    background-color: whitesmoke;
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-size: 30px;
+    width: 40px;
+    height: 40px;
+}
+nav{
+    margin-top: 50px;
+}
+nav .menuItems{
+    display: flex;
+    margin: 5px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+nav .menuItems:hover{
+    color: #6699CC;
+}
+.menuIcon{
+    font-size: 40px;
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 10px;
+}
+.menuName{
+    /* display: none; */
+    margin: 5px;
+    margin-top: 10px;
+}

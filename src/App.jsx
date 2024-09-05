@@ -1,9 +1,9 @@
-import MobileSideBar from './components/Sidebar/MobileSideBar'
+import MobileHomePage from './components/HomePage/mobile/MobileHomePage'
 
 function App() {
   return (
     <div>
-      <MobileSideBar/>
+      <MobileHomePage/>
     </div>
   )
 }
