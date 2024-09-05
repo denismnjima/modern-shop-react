@@ -24,6 +24,8 @@ function ProductPage() {
         <>
            <Swiper
             direction="vertical"
+            spaceBetween={0}
+            slidesPerView={1}
             >
             <SwiperSlide>
               <MobileProduct/>
