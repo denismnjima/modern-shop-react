@@ -1,10 +1,9 @@
-import React from 'react'
-import ProductPage from './components/products-page/ProductPage'
+import MobileSideBar from './components/Sidebar/MobileSideBar'
 
 function App() {
   return (
     <div>
-      <ProductPage/>
+      <MobileSideBar/>
     </div>
   )
 }
