@@ -11,8 +11,6 @@ function MobileSideBar() {
     menuSet?setMenuSet(false):setMenuSet(true)
   }
   return (
-    <div
-      className='overlay'>
     <header>
         <h2
          className='Toggle'
@@ -49,7 +47,6 @@ function MobileSideBar() {
         </nav>
 
     </header>
-    </div>
   )
 }
 
