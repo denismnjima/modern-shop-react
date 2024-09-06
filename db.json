@@ -6,7 +6,7 @@
         "price": 208499,
         "currency": "KSh",
         "description": "Apple M2 chip with 8-core CPU, 10-core GPU, 16-core Neural Engine, 8GB unified memory",
-        "images": ["/images/macbook-air-1.png", "/images/macbook-air-2.png"],
+        "images": ["./src/assets/1.png","./src/assets/2.png"],
         "storage": ["256 GB", "512 GB"],
         "ram": "8GB",
         "color": "Space Gray",
